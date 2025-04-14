@@ -16,7 +16,7 @@ haze = "1.5.2"
 kstore = "0.9.1"
 appdirs = "1.4.0"
 napier = "2.7.1"
-androidx-navigation-compose = "2.9.0-alpha15"
+androidx-navigation-compose = "2.9.0-alpha16"
 
 [libraries]
 
